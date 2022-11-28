@@ -20,6 +20,8 @@
 		6915A196292F31480065B7C0 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6915A195292F31480065B7C0 /* Person.swift */; };
 		6915A198293064640065B7C0 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6915A197293064640065B7C0 /* Calculator.swift */; };
 		6915A19A2930647B0065B7C0 /* CalculatorTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6915A1992930647B0065B7C0 /* CalculatorTest.swift */; };
+		69F58BA62934831500E3314D /* ExampleModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F58BA52934831500E3314D /* ExampleModelTest.swift */; };
+		69F58BA82934A09800E3314D /* ExampleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F58BA72934A09800E3314D /* ExampleModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		6915A195292F31480065B7C0 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		6915A197293064640065B7C0 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 		6915A1992930647B0065B7C0 /* CalculatorTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTest.swift; sourceTree = "<group>"; };
+		69F58BA52934831500E3314D /* ExampleModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleModelTest.swift; sourceTree = "<group>"; };
+		69F58BA72934A09800E3314D /* ExampleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +120,7 @@
 				6915A170292F150F0065B7C0 /* Info.plist */,
 				6915A195292F31480065B7C0 /* Person.swift */,
 				6915A197293064640065B7C0 /* Calculator.swift */,
+				69F58BA72934A09800E3314D /* ExampleModel.swift */,
 			);
 			path = TDDBasics;
 			sourceTree = "<group>";
@@ -126,6 +131,7 @@
 				6915A179292F150F0065B7C0 /* TDDBasicsTests.swift */,
 				6915A192292F2CF40065B7C0 /* PersonTests.swift */,
 				6915A1992930647B0065B7C0 /* CalculatorTest.swift */,
+				69F58BA52934831500E3314D /* ExampleModelTest.swift */,
 			);
 			path = TDDBasicsTests;
 			sourceTree = "<group>";
@@ -272,6 +278,7 @@
 			files = (
 				6915A167292F150E0065B7C0 /* ViewController.swift in Sources */,
 				6915A163292F150E0065B7C0 /* AppDelegate.swift in Sources */,
+				69F58BA82934A09800E3314D /* ExampleModel.swift in Sources */,
 				6915A196292F31480065B7C0 /* Person.swift in Sources */,
 				6915A198293064640065B7C0 /* Calculator.swift in Sources */,
 				6915A165292F150E0065B7C0 /* SceneDelegate.swift in Sources */,
@@ -284,6 +291,7 @@
 			files = (
 				6915A193292F2CF40065B7C0 /* PersonTests.swift in Sources */,
 				6915A19A2930647B0065B7C0 /* CalculatorTest.swift in Sources */,
+				69F58BA62934831500E3314D /* ExampleModelTest.swift in Sources */,
 				6915A17A292F150F0065B7C0 /* TDDBasicsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
