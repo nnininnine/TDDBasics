@@ -7,4 +7,8 @@
 
 import Foundation
 
-class ExampleModel {}
+class ExampleModel {
+    func print() -> String {
+        return "ExampleModel"
+    }
+}
