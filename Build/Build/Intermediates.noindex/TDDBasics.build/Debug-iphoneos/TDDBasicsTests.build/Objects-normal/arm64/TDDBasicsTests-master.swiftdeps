@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "c7825f0501df7a070440090d0c546278b87c5b2207e35c8c56e5b6b0dbfd603a"
+build_start_time: [1669790314, 491917133]
+build_end_time: [1669790314, 810831069]
+inputs:
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasicsTests/CalculatorTest.swift": [1669353298, 435552120]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasicsTests/ExampleModelTest.swift": [1669620384, 765375852]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasicsTests/PersonTests.swift": [1669267590, 52396774]

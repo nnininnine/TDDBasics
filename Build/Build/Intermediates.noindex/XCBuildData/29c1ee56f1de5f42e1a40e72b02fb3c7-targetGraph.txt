@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+TDDBasics in TDDBasics, no dependencies
+TDDBasicsTests in TDDBasics, depends on:
+TDDBasics in TDDBasics (explicit)
