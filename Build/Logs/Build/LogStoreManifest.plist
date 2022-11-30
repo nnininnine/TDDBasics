@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>30FF0F6F-E549-4E85-A381-8A1395ACE206</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30FF0F6F-E549-4E85-A381-8A1395ACE206.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691478909.78041899</real>
+			<key>timeStoppedRecording</key>
+			<real>691478917.47462702</real>
+			<key>title</key>
+			<string>Building project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>30FF0F6F-E549-4E85-A381-8A1395ACE206</string>
+		</dict>
+		<key>7AA0F804-AE8A-4DD9-BA1D-83E1485CAC5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AA0F804-AE8A-4DD9-BA1D-83E1485CAC5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691482295.70570099</real>
+			<key>timeStoppedRecording</key>
+			<real>691482295.77371001</real>
+			<key>title</key>
+			<string>Cleaning project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>7AA0F804-AE8A-4DD9-BA1D-83E1485CAC5D</string>
+		</dict>
+		<key>D6632B8C-DF03-4F25-91DB-39059FE4AD3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6632B8C-DF03-4F25-91DB-39059FE4AD3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691482295.77406299</real>
+			<key>timeStoppedRecording</key>
+			<real>691482304.14709604</real>
+			<key>title</key>
+			<string>Building project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>D6632B8C-DF03-4F25-91DB-39059FE4AD3A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
