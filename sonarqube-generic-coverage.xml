@@ -1,5 +1,5 @@
 <coverage version="1">
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasics/AppDelegate.swift">
+  <file path="/TDDBasics/TDDBasics/AppDelegate.swift">
     <lineToCover lineNumber="15" covered="true"/>
     <lineToCover lineNumber="16" covered="true"/>
     <lineToCover lineNumber="17" covered="true"/>
@@ -15,7 +15,7 @@
     <lineToCover lineNumber="31" covered="true"/>
     <lineToCover lineNumber="32" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasics/Calculator.swift">
+  <file path="/TDDBasics/TDDBasics/Calculator.swift">
     <lineToCover lineNumber="10" covered="true"/>
     <lineToCover lineNumber="11" covered="true"/>
     <lineToCover lineNumber="12" covered="true"/>
@@ -29,12 +29,12 @@
     <lineToCover lineNumber="23" covered="true"/>
     <lineToCover lineNumber="24" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasics/ExampleModel.swift">
+  <file path="/TDDBasics/TDDBasics/ExampleModel.swift">
     <lineToCover lineNumber="11" covered="true"/>
     <lineToCover lineNumber="12" covered="true"/>
     <lineToCover lineNumber="13" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasics/Person.swift">
+  <file path="/TDDBasics/TDDBasics/Person.swift">
     <lineToCover lineNumber="15" covered="true"/>
     <lineToCover lineNumber="16" covered="true"/>
     <lineToCover lineNumber="17" covered="true"/>
@@ -45,7 +45,7 @@
     <lineToCover lineNumber="26" covered="true"/>
     <lineToCover lineNumber="27" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasics/SceneDelegate.swift">
+  <file path="/TDDBasics/TDDBasics/SceneDelegate.swift">
     <lineToCover lineNumber="15" covered="true"/>
     <lineToCover lineNumber="16" covered="true"/>
     <lineToCover lineNumber="17" covered="true"/>
@@ -76,13 +76,13 @@
     <lineToCover lineNumber="47" covered="false"/>
     <lineToCover lineNumber="48" covered="false"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasics/ViewController.swift">
+  <file path="/TDDBasics/TDDBasics/ViewController.swift">
     <lineToCover lineNumber="12" covered="true"/>
     <lineToCover lineNumber="13" covered="true"/>
     <lineToCover lineNumber="14" covered="true"/>
     <lineToCover lineNumber="15" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasicsTests/CalculatorTest.swift">
+  <file path="/TDDBasics/TDDBasicsTests/CalculatorTest.swift">
     <lineToCover lineNumber="13" covered="true"/>
     <lineToCover lineNumber="14" covered="true"/>
     <lineToCover lineNumber="15" covered="true"/>
@@ -119,7 +119,7 @@
     <lineToCover lineNumber="52" covered="true"/>
     <lineToCover lineNumber="53" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasicsTests/ExampleModelTest.swift">
+  <file path="/TDDBasics/TDDBasicsTests/ExampleModelTest.swift">
     <lineToCover lineNumber="13" covered="true"/>
     <lineToCover lineNumber="14" covered="true"/>
     <lineToCover lineNumber="15" covered="true"/>
@@ -138,7 +138,7 @@
     <lineToCover lineNumber="31" covered="true"/>
     <lineToCover lineNumber="32" covered="true"/>
   </file>
-  <file path="/Users/7peaks/Development/learning/TDDBasics/TDDBasicsTests/PersonTests.swift">
+  <file path="/TDDBasics/TDDBasicsTests/PersonTests.swift">
     <lineToCover lineNumber="13" covered="true"/>
     <lineToCover lineNumber="14" covered="true"/>
     <lineToCover lineNumber="15" covered="true"/>
