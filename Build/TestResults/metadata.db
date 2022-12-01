@@ -8,12 +8,58 @@
 	<dict>
 		<key>TDDBasicsTests</key>
 		<dict>
-			<key>System Failures</key>
+			<key>CalculatorTest</key>
 			<dict>
-				<key>TDDBasics encountered an error</key>
+				<key>testAddMethod</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0</real>
+					<real>0.00071704387664794922</real>
+				</dict>
+				<key>testDivideMethod</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00035703182220458984</real>
+				</dict>
+				<key>testInitialize</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00047290325164794922</real>
+				</dict>
+				<key>testMultiMethod</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00026607513427734375</real>
+				</dict>
+				<key>testSubMethod</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00025904178619384766</real>
+				</dict>
+			</dict>
+			<key>ExampleModelTest</key>
+			<dict>
+				<key>testExampleModelInit</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00032401084899902344</real>
+				</dict>
+				<key>testPrintMethod</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00042390823364257812</real>
+				</dict>
+			</dict>
+			<key>PersonTests</key>
+			<dict>
+				<key>testGetterSetter</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0003490447998046875</real>
+				</dict>
+				<key>testInitialization</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.000308990478515625</real>
 				</dict>
 			</dict>
 		</dict>

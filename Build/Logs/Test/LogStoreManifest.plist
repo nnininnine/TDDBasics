@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>5ACB147F-A171-4310-B1D5-3F4D4C7DCDF9</key>
+		<key>34D52C55-F851-4A35-A773-245DEE4DC9C9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BC1C6B15-BE3A-483A-BED4-46A87E8DF7DC</string>
+			<string>A37EB03A-6971-4C4B-A70A-47E41F3B1F71</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-TDDBasics-2565.11.30_13-37-49-+0700.xcresult</string>
+			<string>Run-TDDBasics-2565.12.01_13-58-03-+0700.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -32,7 +32,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>TDDBasics project</string>
@@ -43,18 +43,18 @@
 			<key>signature</key>
 			<string>Run TDDBasics</string>
 			<key>timeStartedRecording</key>
-			<real>691483069.217749</real>
+			<real>691570683.19692004</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TDDBasics</string>
 			<key>uniqueIdentifier</key>
-			<string>5ACB147F-A171-4310-B1D5-3F4D4C7DCDF9</string>
+			<string>34D52C55-F851-4A35-A773-245DEE4DC9C9</string>
 		</dict>
-		<key>D4E1C912-EA46-4C30-B28B-952D96C373A7</key>
+		<key>C5D3F6D1-2696-4240-A0EB-F9DD15394270</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CF7E0E85-747C-45BD-BDE7-64C9A67C2BE2</string>
+			<string>4E8E69AE-3A38-4801-9AD9-C2EF0DD3DEBF</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-TDDBasics-2565.11.30_13-38-28-+0700.xcresult</string>
+			<string>Run-TDDBasics-2565.12.01_13-43-20-+0700.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -77,7 +77,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>TDDBasics project</string>
@@ -88,13 +88,13 @@
 			<key>signature</key>
 			<string>Run TDDBasics</string>
 			<key>timeStartedRecording</key>
-			<real>691483108.19614899</real>
+			<real>691569800.30818701</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TDDBasics</string>
 			<key>uniqueIdentifier</key>
-			<string>D4E1C912-EA46-4C30-B28B-952D96C373A7</string>
+			<string>C5D3F6D1-2696-4240-A0EB-F9DD15394270</string>
 		</dict>
 	</dict>
 </dict>

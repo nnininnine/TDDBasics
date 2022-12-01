@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000203">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: run_tests" time="135.386549">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ &gt; ../sonarqube-generic-coverage.xml" time="1.891692">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

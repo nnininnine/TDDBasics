@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "1af20ae00052675f1d30c3c8b80892fd38d24279542ac4d2c332ad3a68f98f77"
+build_start_time: [1669877892, 751837968]
+build_end_time: [1669877893, 959159851]
+inputs:
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasics/AppDelegate.swift": [1669258638, 757318973]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasics/Calculator.swift": [1669353513, 10969638]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasics/ExampleModel.swift": [1669863611, 201455354]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasics/Person.swift": [1669266838, 860382080]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasics/SceneDelegate.swift": [1669258638, 759857654]
+  "/Users/7peaks/Development/learning/TDDBasics/TDDBasics/ViewController.swift": [1669258638, 760628700]
