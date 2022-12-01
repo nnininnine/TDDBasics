@@ -16,12 +16,6 @@ jobs:
 #      - run: fastlane tests
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
-        with:
-          projectBaseDir: .
-          args: >
-            -Dsonar.organization=nnininnine
-            -Dsonar.projectKey=nnininnine_TDDBasics
-            -Dsonar.swift.coverage.reportPaths=cov.xml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
