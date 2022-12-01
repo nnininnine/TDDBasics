@@ -23,5 +23,11 @@ final class ExampleModelTest: XCTestCase {
         
         XCTAssertNotNil(exampleModel)
     }
-
+    
+    func testPrintMethod() throws {
+        let exampleModel = ExampleModel()
+        let result = exampleModel.print("some")
+        
+        XCTAssertEqual(result, "some")
+    }
 }
