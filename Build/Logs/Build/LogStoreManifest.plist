@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4748D0E9-B10D-4BD1-8D8C-8BF9A7B52991</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4748D0E9-B10D-4BD1-8D8C-8BF9A7B52991.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691650865.41781294</real>
+			<key>timeStoppedRecording</key>
+			<real>691650865.51222205</real>
+			<key>title</key>
+			<string>Cleaning project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>4748D0E9-B10D-4BD1-8D8C-8BF9A7B52991</string>
+		</dict>
+		<key>644C85DB-700C-4EBB-8E28-AE1B661B2187</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>644C85DB-700C-4EBB-8E28-AE1B661B2187.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691650865.51260602</real>
+			<key>timeStoppedRecording</key>
+			<real>691650875.07822895</real>
+			<key>title</key>
+			<string>Building project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>644C85DB-700C-4EBB-8E28-AE1B661B2187</string>
+		</dict>
+		<key>C3BF86B0-A855-48A4-A98E-C2573876BA48</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3BF86B0-A855-48A4-A98E-C2573876BA48.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691650875.07862103</real>
+			<key>timeStoppedRecording</key>
+			<real>691650878.86380601</real>
+			<key>title</key>
+			<string>Testing project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>C3BF86B0-A855-48A4-A98E-C2573876BA48</string>
+		</dict>
+		<key>DB3890D4-6976-4372-9E98-D7B336870D6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB3890D4-6976-4372-9E98-D7B336870D6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TDDBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TDDBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project TDDBasics with scheme TDDBasics</string>
+			<key>timeStartedRecording</key>
+			<real>691646792.41142595</real>
+			<key>timeStoppedRecording</key>
+			<real>691646799.88542199</real>
+			<key>title</key>
+			<string>Testing project TDDBasics with scheme TDDBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>DB3890D4-6976-4372-9E98-D7B336870D6C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
