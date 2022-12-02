@@ -6,13 +6,16 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
-  sonarcloud:
-    name: SonarCloud
+  fastlane:
+    name: Fastlane Generate code coverage
     runs-on: macos-latest
     steps:
       - run: pwd && ls
       - run: brew install sonar-scanner
-      - run: export SONAR_TOKEN=${{secrets.SONAR_TOKEN}} && echo $SONAR_TOKEN
+      - run: export SONAR_TOKEN=${{SONAR_TOKEN}} && echo $SONAR_TOKEN
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 #    steps:
 #      - uses: actions/checkout@v2
 #        with:
@@ -24,3 +27,4 @@ jobs:
 #        env:
 #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
 #          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+#  sonarcloud
