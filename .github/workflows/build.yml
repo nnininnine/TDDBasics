@@ -13,6 +13,7 @@ jobs:
       - run: pwd && ls
       - run: brew install sonar-scanner
       - run: export SONAR_TOKEN=75f386ba425ac21efa811279b05f5ca862150405 && echo $SONAR_TOKEN
+      - run: brew install fastlane
       - run: fastlane tests
       - run: sonar-scanner \
               -Dsonar.organization=nnininnine \
