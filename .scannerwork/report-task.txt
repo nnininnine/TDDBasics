@@ -1,0 +1,7 @@
+organization=nnininnine
+projectKey=nnininnine_TDDBasics
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.35072
+dashboardUrl=https://sonarcloud.io/dashboard?id=nnininnine_TDDBasics
+ceTaskId=AYTRRNHIgB0u8Tplj5jb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYTRRNHIgB0u8Tplj5jb

@@ -13,27 +13,27 @@
 				<key>testAddMethod</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00069892406463623047</real>
+					<real>0.00080204010009765625</real>
 				</dict>
 				<key>testDivideMethod</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00036692619323730469</real>
+					<real>0.00041401386260986328</real>
 				</dict>
 				<key>testInitialize</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00047695636749267578</real>
+					<real>0.00048196315765380859</real>
 				</dict>
 				<key>testMultiMethod</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00026404857635498047</real>
+					<real>0.00033998489379882812</real>
 				</dict>
 				<key>testSubMethod</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00026798248291015625</real>
+					<real>0.00030195713043212891</real>
 				</dict>
 			</dict>
 			<key>ExampleModelTest</key>
@@ -41,12 +41,12 @@
 				<key>testExampleModelInit</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00041604042053222656</real>
+					<real>0.00035500526428222656</real>
 				</dict>
 				<key>testPrintMethod</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00030004978179931641</real>
+					<real>0.00028598308563232422</real>
 				</dict>
 			</dict>
 			<key>PersonTests</key>
@@ -54,12 +54,12 @@
 				<key>testGetterSetter</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00034797191619873047</real>
+					<real>0.00045490264892578125</real>
 				</dict>
 				<key>testInitialization</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00025808811187744141</real>
+					<real>0.00034999847412109375</real>
 				</dict>
 			</dict>
 		</dict>

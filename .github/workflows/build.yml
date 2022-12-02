@@ -25,6 +25,7 @@ jobs:
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.swift.coverage.reportPaths=cov.xml \
             -Dsonar.coverageReportPaths=cov.xml
+        shell: bash
 #  sonarcloud
 #    steps:
 #      - uses: actions/checkout@v2

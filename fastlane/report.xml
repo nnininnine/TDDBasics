@@ -5,17 +5,17 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000407">
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000185">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: run_tests" time="200.010512">
+      <testcase classname="fastlane.lanes" name="1: run_tests" time="145.367136">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="2: bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ &gt; ../sonarqube-generic-coverage.xml" time="1.821453">
+      <testcase classname="fastlane.lanes" name="2: bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ &gt; ../cov.xml" time="2.140411">
         
       </testcase>
     
