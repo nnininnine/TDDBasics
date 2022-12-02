@@ -12,6 +12,7 @@ jobs:
     steps:
       - run: pwd && ls
       - run: brew install sonar-scanner
+      - run: export SONAR_TOKEN=${{secrets.SONAR_TOKEN}} && echo $SONAR_TOKEN
 #    steps:
 #      - uses: actions/checkout@v2
 #        with:
