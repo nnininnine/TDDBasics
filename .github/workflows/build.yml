@@ -29,6 +29,14 @@ jobs:
       - run: pwd && ls
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
+        with:
+          projectBaseDir: ./
+          args: >
+            -Dsonar.organization=nnininnine
+            -Dsonar.projectKey=nnininnine_TDDBasics
+            -Dsonar.swift.coverage.reportPaths=cov.xml
+            -Dsonar.coverageReportPaths=cov.xml
+            -Dsonar.sources=.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
