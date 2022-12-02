@@ -13,7 +13,7 @@ platform :ios do
 	output_types: "junit",
 	clean: true
     )
-    sh("bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ > ../sonarqube-generic-coverage.xml")
+    sh("bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ > ../cov.xml")
   end
   lane :generate_code_coverage do
     sh("bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ > ../sonarqube-generic-coverage.xml")
