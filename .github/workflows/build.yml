@@ -16,7 +16,7 @@ jobs:
       - run: pwd && ls
 #      - run: brew install sonar-scanner
 #      - run: export SONAR_TOKEN=45e763437e83b02038ae096efd43f7f8c7857c2f && echo $SONAR_TOKEN
-      - run: fastlane tests
+#      - run: fastlane tests
 #      - run: bash sonarcloud-scan.sh
   sonarcloud:
     needs: fastlane
