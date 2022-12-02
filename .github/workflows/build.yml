@@ -12,11 +12,10 @@ jobs:
     steps:
       - run: pwd && ls
 #      - run: brew install sonar-scanner
-      - run: echo $SONAR_TOKEN
-#      - run: export SONAR_TOKEN=${{SONAR_TOKEN}} && echo $SONAR_TOKEN
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
-          SONAR_TOKEN: ${{ env.SONAR_TOKEN }}
+      - run: export SONAR_TOKEN=75f386ba425ac21efa811279b05f5ca862150405 && echo $SONAR_TOKEN
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
+#          SONAR_TOKEN: ${{ env.SONAR_TOKEN }}
 #    steps:
 #      - uses: actions/checkout@v2
 #        with:
