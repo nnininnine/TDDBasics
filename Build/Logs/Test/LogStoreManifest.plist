@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>34D52C55-F851-4A35-A773-245DEE4DC9C9</key>
+		<key>2BA2DA74-60D5-4D7C-8985-7511A9130BC5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A37EB03A-6971-4C4B-A70A-47E41F3B1F71</string>
+			<string>E96B35FB-6826-4B3A-8F9C-A919E65A763D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-TDDBasics-2565.12.01_13-58-03-+0700.xcresult</string>
+			<string>Run-TDDBasics-2565.12.02_11-06-14-+0700.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -43,18 +43,18 @@
 			<key>signature</key>
 			<string>Run TDDBasics</string>
 			<key>timeStartedRecording</key>
-			<real>691570683.19692004</real>
+			<real>691646774.19599295</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TDDBasics</string>
 			<key>uniqueIdentifier</key>
-			<string>34D52C55-F851-4A35-A773-245DEE4DC9C9</string>
+			<string>2BA2DA74-60D5-4D7C-8985-7511A9130BC5</string>
 		</dict>
-		<key>C5D3F6D1-2696-4240-A0EB-F9DD15394270</key>
+		<key>41F2A481-4E38-4446-BDD9-8074831CBA69</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>4E8E69AE-3A38-4801-9AD9-C2EF0DD3DEBF</string>
+			<string>54533FA0-9787-4056-83F6-94B476DB6196</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-TDDBasics-2565.12.01_13-43-20-+0700.xcresult</string>
+			<string>Run-TDDBasics-2565.12.02_10-53-03-+0700.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -88,13 +88,13 @@
 			<key>signature</key>
 			<string>Run TDDBasics</string>
 			<key>timeStartedRecording</key>
-			<real>691569800.30818701</real>
+			<real>691645983.01784694</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TDDBasics</string>
 			<key>uniqueIdentifier</key>
-			<string>C5D3F6D1-2696-4240-A0EB-F9DD15394270</string>
+			<string>41F2A481-4E38-4446-BDD9-8074831CBA69</string>
 		</dict>
 	</dict>
 </dict>

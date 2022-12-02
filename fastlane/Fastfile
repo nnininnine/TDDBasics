@@ -8,9 +8,9 @@ platform :ios do
   lane :tests do
     run_tests(
 	scheme: "TDDBasics",
-	buildlog_path: "./fastlane/build/",
 	derived_data_path: "./Build/",
 	code_coverage: true,
+	output_types: "junit",
 	clean: true
     )
     sh("bash ../xccov-to-sonarqube-generic.sh ../Build/Logs/Test/*.xcresult/ > ../sonarqube-generic-coverage.xml")
